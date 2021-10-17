@@ -14,6 +14,5 @@ header('Location: ' . $_SERVER['HTTP_REFERER']);
 
 }
 
-$connection->close();
 
 ?>
